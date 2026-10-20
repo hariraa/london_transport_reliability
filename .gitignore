@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+
+# Local environments
+.venv/
+venv/
+
+# Local SQLite database
+*.db
+
+# Older project copies
+/01-data-exploration.ipynb
+/chart_1.png
+
+# Duplicate chart exports
+/data/outputs/
